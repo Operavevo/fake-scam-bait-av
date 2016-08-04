@@ -1,2 +1,2 @@
 # fake-scam-bait-av
-read readme.txt for instrucrions
+read READ THIS.txt for instrucrions
