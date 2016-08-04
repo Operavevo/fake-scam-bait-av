@@ -1,3 +1,4 @@
+if the program asks you for a "product key" enter anything, it doesn't matter
 put the number you're calling into the number.txt file
-write true into virus.txt if you want the av to display a "virus found" message, and false if you want it to display your pc as clean¨
+write true into virus.txt if you want the av to display a "virus found" message, and false if you want it to display your pc as clean
 
